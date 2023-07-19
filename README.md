@@ -6,7 +6,7 @@
 - ❤  Apaixonado por Front End
 - ✏️ Aprendendo MongoDB
 - 😄 Pronomes: Ele/Dele
-- 📫 Para me contatar: https://www.linkedin.com/in/jefeson-lu%C3%ADz-winter64/
+- 📫 Para me contatar: https://www.linkedin.com/in/jefeson-luiz/
 
 <div align="center">
   <a href="https://github.com/JefesonLuiz">
