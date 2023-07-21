@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvedor Fullstack
 - 🌱 Entusiasta em Programação
-- ❤  Apaixonado por Front End
+- ❤  Apaixonado por Arte
 - ✏️ Aprendendo MongoDB
 - 😄 Pronomes: Ele/Dele
 - 📫 Para me contatar: https://www.linkedin.com/in/jefeson-luiz/
