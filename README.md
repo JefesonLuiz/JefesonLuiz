@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvedor Fullstack
 - 🌱 Entusiasta em Programação
-- ❤  Apaixonado por Arte
+- ❤  Apaixonado por Inovação e Desenvolvimento
 - ✏️ Aprendendo MongoDB
 - 😄 Pronomes: Ele/Dele
 - 📫 Para me contatar: https://www.linkedin.com/in/jefeson-luiz/
@@ -30,7 +30,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
  <div align="center"> 
   <a href = "mailto:jefesonluiz.linke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jefeson-luiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/JefesonLuiz/JefesonLuiz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
