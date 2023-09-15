@@ -4,7 +4,7 @@
 - 🔭 Desenvolvedor Fullstack
 - 🌱 Entusiasta em Programação
 - ❤  Apaixonado por Inovação e Desenvolvimento
-- ✏️ Aprendendo MongoDB
+- ✏️ Aprendendo Kotlin
 - 😄 Pronomes: Ele/Dele
 - 📫 Para me contatar: https://www.linkedin.com/in/jefeson-luiz/
 
