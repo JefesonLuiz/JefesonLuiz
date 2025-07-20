@@ -1,12 +1,12 @@
-<h1 align="center"> Olá, sou o Jefeson Luíz! </h1>
+<h1 align="center"> Hi, i'm Jefeson Luíz! </h1>
 
 
-- 🔭 Desenvolvedor Fullstack
-- 🌱 Entusiasta em Programação
-- ❤  Apaixonado por Inovação e Desenvolvimento
-- ✏️ Aprendendo Kotlin
-- 😄 Pronomes: Ele/Dele
-- 📫 Para me contatar: https://www.linkedin.com/in/jefeson-luiz/
+- 🔭 QA Engineer
+- 🌱 Programming Enthusiast
+- ❤  Passionate about Innovation and Development
+- ✏️ Learning Robot Framework
+- 😄 Pronouns: He/Him
+- 📫  Contact me at: https://www.linkedin.com/in/jefeson-luiz/
 
 <div align="center">
   <a href="https://github.com/JefesonLuiz">
