@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, i'm Jefeson Luíz! </h1>
 
 
-- 🔭 QA Engineer
+- 🔭 Systems Analyst
 - 🌱 Programming Enthusiast
 - ❤  Passionate about Innovation and Development
 - ✏️ Learning Robot Framework
